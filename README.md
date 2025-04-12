@@ -396,10 +396,10 @@ I am deployed app in Heroku Platform to see visit [here](https://amazon-food-rev
 
 ### Contact
 
-[Email](sachin.s1dn@gmail.com)
-[Linkedln](https://www.linkedin.com/in/sachin-d-n-1st-8150351b2/)
-[Github](https://github.com/Sachin-D-N/Amazon_Food_Reviews)
-[Medium](https://sachin-s1dn.medium.com/)
-[Twitter](https://twitter.com/home)
+[Email](rajesh8368568776@gmail.com)
+[Linkedln](www.linkedin.com/in/rajesh-kumar-564b8a188)
+[Github](https://github.com/rajesh0305)
+[Twitter](https://x.com/MLE_rajesh0305)
+[GFG](https://www.geeksforgeeks.org/user/rajeshrajput/?_gl=1*1bzn6sp*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw--K_BhB5EiwAuwYoynOcqyvLPkLc8H_OeOLFKV1xMJ1_p_r28ZSLOASlOlKqP0LDzxd_mBoCnA4QAvD_BwE&gbraid=0AAAAAC9yBkDs_DoJKxMS1sI6NNYmbwb_h)
 
 
