@@ -41,7 +41,7 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 
 [Ans] We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
 
-To Know the Complete overview of the Amazon Food review dataset and Featurization visit my [medium blog](https://medium.com/analytics-vidhya/amazon-fine-food-reviews-featurization-with-natural-language-processing-a386b0317f56)
+
 
 ## Task 02. Apply KNN to Amazon_Food_Reviews_Dataset
 
